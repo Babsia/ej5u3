@@ -6,5 +6,5 @@ class interfaz(Interface):
         pass
     def agregarelemento(elemento):
         pass
-    def mostrarelemento(elemento):
+    def mostrarelemento(pos):
         pass
